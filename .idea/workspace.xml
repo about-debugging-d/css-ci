@@ -24,7 +24,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="import-resource.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="import-resource.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/import-resource/import-resource.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="36">
@@ -54,11 +54,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="import-resource.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="import-resource.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/import-resource/import-resource.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="24">
+              <caret line="2" column="45" lean-forward="false" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -83,6 +83,7 @@
         <option value="$PROJECT_DIR$/import-resource/import-resource.css" />
         <option value="$PROJECT_DIR$/import-resource/import-alert-source.js" />
         <option value="$PROJECT_DIR$/import-resource/import-resource.html" />
+        <option value="$PROJECT_DIR$/import-resource/import-resource.js" />
       </list>
     </option>
   </component>
@@ -169,12 +170,12 @@
       <option name="presentableId" value="Default" />
       <updated>1512525518562</updated>
       <workItem from="1512525522316" duration="126000" />
-      <workItem from="1512828912084" duration="2397000" />
+      <workItem from="1512828912084" duration="3139000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2523000" />
+    <option name="totallyTimeSpent" value="3265000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-3" width="1366" height="732" extended-state="6" />
@@ -225,14 +226,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/import-resource/import-resource.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/import-resource/import-resource.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="12">
@@ -253,6 +246,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/import-resource/import-resource.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="2" column="45" lean-forward="false" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
           <folding />
         </state>
       </provider>
