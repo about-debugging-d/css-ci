@@ -1,0 +1,1 @@
+alert('clone this script tag node in the replaced dom, delete this script tag node from the dom, and append the cloned script tag node to the dom. \n If you can see this line, you can also make the other replaced script execute.');
