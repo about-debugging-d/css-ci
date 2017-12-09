@@ -1,4 +1,4 @@
-const p2 = document.getElementsByTagName('p')[1];
+const div2 = document.getElementsByTagName('div')[1];
 setInterval(function(){
-  p2.style.left = parseFloat(p2.style.left) + 5 + 'px';
+  div2.style.left = parseFloat(div2.style.left) + 5 + 'px';
 }, 17);
